@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Krushna blends technical skill with artistic design to bring unique worlds to life. 
   This portfolio showcases projects, prototypes, and interactive ideas that reflect 
   a balance of creativity, code, and gameplay innovation.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio_test2" # the subpath of your site, e.g. /blog
 url: "https://saaru.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  krushn-a
 
